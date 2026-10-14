@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: microondas.jpg
+Ruta del archivo: C:\IA_Gpo3H\ML_0028\VA_0028\p1-act1-va-0028\img-original-0028\microondas.jpg
+Formato por extension: .JPG
+Tamano en bytes: 16065
+Tamano en KB: 15.69
+Tamano en MB: 0.0153
+
+DIMENSIONES
+-----------
+Ancho: 554 pixeles
+Alto: 554 pixeles
+Resolucion: 554 x 554
+Total de pixeles: 306,916
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 186.80
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 187.93
+Verde (G): 187.05
+Rojo (R): 185.42
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
